@@ -1,0 +1,9 @@
+body{
+background-image:url('https://wallpapercave.com/wp/wp2858904.jpg');
+/* background-image:url('lala.png'); */
+background-attachment:fixed;
+background-repeat:no-repeat;
+background-size:cover;
+background-position:right bottom, left top;
+background-position:cover;
+}
